@@ -1,0 +1,77 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #000000; /* Pure Black Background */
+    color: #FFFFFF; /* Pure White Text */
+    text-align: center;
+    overflow: hidden;
+}
+
+.container {
+    background-color: #3a404b; /* Slightly lighter dark for container */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    max-width: 600px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Space between elements */
+}
+
+h1 {
+    color: #61dafb; /* Bright blue for heading */
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+.quote-box {
+    background-color: #444b56; /* Even lighter dark for quote box */
+    padding: 25px;
+    border-radius: 8px;
+    width: 100%;
+    box-sizing: border-box; /* Include padding in width */
+}
+
+.quote-text {
+    font-size: 1.5em;
+    font-style: italic;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    color: #e0e0e0;
+}
+
+.quote-author {
+    font-size: 1em;
+    color: #bbbbbb;
+    text-align: right;
+    width: 100%; /* Ensure author takes full width for text-align */
+    margin-top: 10px;
+}
+
+.new-quote-btn {
+    background-color: #61dafb; /* Bright blue button */
+    color: #282c34; /* Dark text on button */
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+    outline: none; /* Remove outline on focus */
+}
+
+.new-quote-btn:hover {
+    background-color: #4ac1e3; /* Slightly darker blue on hover */
+    transform: translateY(-2px); /* Lift button slightly */
+}
+
+.new-quote-btn:active {
+    background-color: #38a7c2; /* Even darker blue on click */
+    transform: translateY(0); /* Press button down */
+}
