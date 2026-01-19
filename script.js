@@ -10,6 +10,10 @@ const quotes = [
         author: "Steve Jobs"
     },
     {
+        quote: "Wile we come from different places, and speak different tongues, our hearts beat as one.",
+        author: "Albus Percival Wulfric Brian Dumbledore"
+    },
+    {
         quote: "Believe you can and you're halfway there.",
         author: "Theodore Roosevelt"
     },
