@@ -31,7 +31,7 @@ const quotes = [
     },
     {
         quote: "test.",
-        author: "Peter Drucker"
+        author: "test"
     },
      {
    quote: "Believe you can and you're halfway there.",
