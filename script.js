@@ -10,7 +10,7 @@ const quotes = [
         author: "Steve Jobs"
     },
     {
-        quote: "Wile we come from different places, and speak different tongues, our hearts beat as one.",
+        quote: "While we may come from different places, and speak different tongues, our hearts beat as one.",
         author: "Albus Percival Wulfric Brian Dumbledore"
     },
     {
