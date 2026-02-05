@@ -10,6 +10,10 @@ const quotes = [
         author: "Steve Jobs"
     },
     {
+        quote: "Even though your voice is small; it is mighty",
+        author: "Julio Andrade Solorio"
+    },
+    {
         quote: "While we may come from different places, and speak different tongues, our hearts beat as one.",
         author: "Albus Percival Wulfric Brian Dumbledore"
     },
