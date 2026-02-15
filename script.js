@@ -47,11 +47,11 @@ quote: "Don’t allow your wounds to turn you into a person you are not.",
     },
 {
 quote: "You must do the thing which you think you cannot do.",
-        author: "-Elanor Rroaecelt"
+        author: "Elanor Rroaecelt"
     },
 {
 quote: "Every human is an artist. And this is the main art that we have: the creation of our story.",
-        author: "-don Miguel Ruiz"
+        author: "don Miguel Ruiz"
     },
 ];
 
