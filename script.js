@@ -5,6 +5,10 @@ const newQuoteBtn = document.querySelector('.new-quote-btn');
 
 // 2. Define an array of quotes
 const quotes = [
+        {
+        quote: "If I couls do it there I could do it anywhare",
+        author: "Unknown"
+    },
       {
         quote: "The only way to succed is it try and try again. The only way to fail is to give up",
         author: "Julio A.S."
