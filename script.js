@@ -15,7 +15,7 @@ const quotes = [
     },
     {
         quote: "Even though your voice is small; it is mighty",
-        author: "Julio Andrade Solorio"
+        author: "Julio A.S."
     },
     {
         quote: "While we may come from different places, and speak different tongues, our hearts beat as one.",
