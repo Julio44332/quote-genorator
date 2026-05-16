@@ -5,6 +5,10 @@ const newQuoteBtn = document.querySelector('.new-quote-btn');
 
 // 2. Define an array of quotes
 const quotes = [
+      {
+        quote: "The only way to succed is it try and try again. The only way to fail is to give up",
+        author: "Julio A.S."
+    },
     {
         quote: "The only way to do great work is to love what you do.",
         author: "Steve Jobs"
