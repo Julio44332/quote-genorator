@@ -10,7 +10,7 @@ const quotes = [
         author: "Unknown"
     },
       {
-        quote: "The only way to succed is it try and try again. The only way to fail is to give up",
+        quote: "The only way to truly succed is it try and try again. The only way to truly fail is to give up",
         author: "Julio A.S."
     },
     {
