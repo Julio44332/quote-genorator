@@ -6,11 +6,11 @@ const newQuoteBtn = document.querySelector('.new-quote-btn');
 // 2. Define an array of quotes
 const quotes = [
         {
-        quote: "If I couls do it there I could do it anywhare",
-        author: "Unknown"
+        quote: "If I could do it there I could do it anywhare",
+        author: "Babe Ruth?"
     },
       {
-        quote: "The only way to truly succed is it try and try again. The only way to truly fail is to give up",
+        quote: "The only way to truly succeed is it try and try again. The only way to truly fail is to give up",
         author: "Julio A.S."
     },
     {
