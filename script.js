@@ -6,6 +6,10 @@ const newQuoteBtn = document.querySelector('.new-quote-btn');
 // 2. Define an array of quotes
 const quotes = [
         {
+        quote: "We all make mistakes, but some of us grow from them",
+        author: "Julio A.S."
+    },
+        {
         quote: "If I could do it there I could do it anywhare",
         author: "Babe Ruth?"
     },
