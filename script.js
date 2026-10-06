@@ -34,10 +34,6 @@ const quotes = [
         author: "Albus Percival Wulfric Brian Dumbledore"
     },
     {
-        quote: "Believe you can and you're halfway there.",
-        author: "Theodore Roosevelt"
-    },
-    {
         quote: "The future belongs to those who believe in the beauty of their dreams.",
         author: "Eleanor Roosevelt"
     },
