@@ -6,6 +6,10 @@ const newQuoteBtn = document.querySelector('.new-quote-btn');
 // 2. Define an array of quotes
 const quotes = [
         {
+        quote: "It's better to know why you're wrong, than not being wrong at all.",
+        author: "Julio A.S."
+    },
+        {
         quote: "We all make mistakes, but some of us grow from them",
         author: "Julio A.S."
     },
